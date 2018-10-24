@@ -1,1 +1,1 @@
-
+In this homework I combined ACS census data with NYC Open Data to perform a spatial analysis of broadband usage in New York City. I then also combined a spatial dataset that contained data on LinkNYC locations. My analysis concluded with maps that showed broadband usage and LinkNYC locations by PUMA in NYC.
