@@ -1,6 +1,6 @@
 ## PUI2018 HW9: Plot review assignment
 
-![Alt text](andrewPlot.png)
+![Alt text](Plot.png)
 
 Andrew is doing a very good job.
 
